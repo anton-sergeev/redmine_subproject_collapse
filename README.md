@@ -2,6 +2,7 @@ Collapse sub projects
 ====================
 
 Adds ability to collapse sub projects on Projects page.
+![Screenshot](https://cloud.githubusercontent.com/assets/8553102/23908066/86b881de-0905-11e7-9fc7-4f2e3546e004.png)
 
 Installation
 ====================
