@@ -23,6 +23,7 @@ Themes:
  * Classic
  * [Gitmike](https://github.com/makotokw/redmine-theme-gitmike)
  * [Flat](https://github.com/tsi/redmine-theme-flat)
+ * [Purplemine2](https://github.com/mrliptontea/PurpleMine2)
 
 License
 ====================
